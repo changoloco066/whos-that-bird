@@ -1,0 +1,156 @@
+{
+  "paloma_comun": {
+    "common_name": "Paloma Común",
+    "scientific_name": "Columba livia",
+    "description": "Ave urbana muy adaptada a las ciudades. Es una de las aves más distribuidas del mundo gracias a su convivencia con el ser humano.",
+    "habitat": "Zonas urbanas, plazas, edificios",
+    "diet": "Semillas, pan, desperdicios urbanos",
+    "wingspan_cm": 64,
+    "fun_fact": "Fue una de las primeras aves domesticadas por el ser humano, hace más de 5,000 años.",
+    "photo": "img/paloma_comun.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "gorrion_comun": {
+    "common_name": "Gorrión Común",
+    "scientific_name": "Passer domesticus",
+    "description": "Pequeño y activo, es una de las aves más reconocidas del mundo. Muy común en parques y jardines urbanos de México.",
+    "habitat": "Ciudades, parques, jardines",
+    "diet": "Semillas, insectos, migajas",
+    "wingspan_cm": 21,
+    "fun_fact": "El gorrión común no es originario de América — fue introducido desde Europa en el siglo XIX.",
+    "photo": "img/gorrion_comun.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "cardenal_nortenio": {
+    "common_name": "Cardenal Norteño",
+    "scientific_name": "Cardinalis cardinalis",
+    "description": "El macho es inconfundible por su plumaje rojo brillante. Muy común en el noreste de México, incluyendo Coahuila.",
+    "habitat": "Bosques, matorrales, jardines",
+    "diet": "Semillas, frutas, insectos",
+    "wingspan_cm": 31,
+    "fun_fact": "Solo el macho es rojo; la hembra es café con tonos rojizos. Ambos cantan, lo cual es inusual en aves.",
+    "photo": "img/cardenal_nortenio.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "cuervo_comun": {
+    "common_name": "Cuervo Común",
+    "scientific_name": "Corvus corax",
+    "description": "Una de las aves más inteligentes del mundo. Su plumaje negro azulado y su tamaño lo hacen inconfundible.",
+    "habitat": "Bosques, montañas, zonas abiertas",
+    "diet": "Omnívoro — carroña, insectos, frutas, pequeños animales",
+    "wingspan_cm": 120,
+    "fun_fact": "Los cuervos pueden reconocer rostros humanos y recordar a personas que los han amenazado.",
+    "photo": "img/cuervo_comun.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "colibri": {
+    "common_name": "Colibrí",
+    "scientific_name": "Trochilidae spp.",
+    "description": "El ave más pequeña del sistema. Sus alas pueden batir hasta 80 veces por segundo, permitiéndole volar en todas direcciones incluso hacia atrás.",
+    "habitat": "Jardines, bosques, zonas con flores",
+    "diet": "Néctar de flores, pequeños insectos",
+    "wingspan_cm": 11,
+    "fun_fact": "El colibrí tiene el corazón más rápido de todos los vertebrados — hasta 1,200 latidos por minuto en pleno vuelo.",
+    "photo": "img/colibri.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "aguila_real": {
+    "common_name": "Águila Real",
+    "scientific_name": "Aquila chrysaetos",
+    "description": "El símbolo nacional de México. Es el ave rapaz más grande de América del Norte y una de las más poderosas del mundo.",
+    "habitat": "Montañas, zonas áridas, acantilados",
+    "diet": "Mamíferos medianos, conejos, liebres, serpientes",
+    "wingspan_cm": 220,
+    "fun_fact": "Aparece en el escudo nacional de México desde la época azteca. Las águilas reales son monógamas y mantienen la misma pareja de por vida.",
+    "photo": "img/aguila_real.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "tucan_pico_canoa": {
+    "common_name": "Tucán Pico Canoa",
+    "scientific_name": "Ramphastos sulfuratus",
+    "description": "Su enorme pico colorido es su característica más icónica. A pesar de su tamaño, el pico es hueco y muy ligero.",
+    "habitat": "Selvas tropicales del sur de México",
+    "diet": "Frutas, insectos, huevos de otras aves",
+    "wingspan_cm": 55,
+    "fun_fact": "El tucán usa su gran pico para regular su temperatura corporal, como si fuera un radiador natural.",
+    "photo": "img/tucan_pico_canoa.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "perico_verde": {
+    "common_name": "Perico Verde",
+    "scientific_name": "Aratinga holochlora",
+    "description": "Loro pequeño de plumaje completamente verde, muy ruidoso y social. Vive en parvadas grandes en las selvas mexicanas.",
+    "habitat": "Selvas, bosques tropicales",
+    "diet": "Frutas, semillas, flores, insectos",
+    "wingspan_cm": 38,
+    "fun_fact": "Los pericos verdes son capaces de imitar sonidos del ambiente y algunas palabras humanas si se crían en cautiverio.",
+    "photo": "img/perico_verde.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "buho_cornudo": {
+    "common_name": "Búho Cornudo",
+    "scientific_name": "Bubo virginianus",
+    "description": "El búho más grande de México. Sus 'cuernos' no son orejas reales sino penachos de plumas. Cazador nocturno silencioso y letal.",
+    "habitat": "Bosques, matorrales, zonas rurales",
+    "diet": "Roedores, conejos, aves medianas, reptiles",
+    "wingspan_cm": 145,
+    "fun_fact": "El búho cornudo puede girar la cabeza 270 grados. Sus ojos son fijos en el cráneo, por eso necesita girar el cuello para ver a los lados.",
+    "photo": "img/buho_cornudo.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "flamingo_rosa": {
+    "common_name": "Flamingo Rosa",
+    "scientific_name": "Phoenicopterus ruber",
+    "description": "Ave inconfundible por su color rosa intenso y su cuello largo. En México habita principalmente en la Reserva de Celestún en Yucatán.",
+    "habitat": "Lagunas costeras, estuarios, zonas salinas",
+    "diet": "Algas, crustáceos, moluscos pequeños",
+    "wingspan_cm": 140,
+    "fun_fact": "El color rosa del flamingo viene de los pigmentos (carotenoides) de los crustáceos que come. Sin esa dieta, su plumaje sería blanco.",
+    "photo": "img/flamingo_rosa.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "pato_de_collar": {
+    "common_name": "Pato de Collar",
+    "scientific_name": "Anas platyrhynchos",
+    "description": "El pato más común del mundo. El macho tiene la cabeza verde brillante con un collar blanco distintivo.",
+    "habitat": "Lagos, ríos, humedales, parques urbanos",
+    "diet": "Plantas acuáticas, insectos, pequeños peces",
+    "wingspan_cm": 90,
+    "fun_fact": "El graznido clásico que todos conocemos como 'cuac' es solo de la hembra. El macho produce un sonido más suave y ronco.",
+    "photo": "img/pato_de_collar.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "lechuza_campanario": {
+    "common_name": "Lechuza de Campanario",
+    "scientific_name": "Tyto alba",
+    "description": "Reconocible por su cara blanca en forma de corazón. Es una cazadora nocturna extraordinariamente silenciosa.",
+    "habitat": "Zonas urbanas, campanarios, graneros, cuevas",
+    "diet": "Roedores principalmente, ocasionalmente insectos y aves pequeñas",
+    "wingspan_cm": 107,
+    "fun_fact": "La lechuza puede cazar en completa oscuridad guiándose solo por el sonido. Su oído es tan preciso que puede detectar un ratón bajo la nieve.",
+    "photo": "img/lechuza_campanario.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "pelicano_blanco": {
+    "common_name": "Pelícano Blanco",
+    "scientific_name": "Pelecanus erythrorhynchos",
+    "description": "Una de las aves acuáticas más grandes de México. Su bolsa gular puede contener hasta 3 veces más agua que su estómago.",
+    "habitat": "Costas, lagos, lagunas",
+    "diet": "Peces principalmente",
+    "wingspan_cm": 280,
+    "fun_fact": "El pelícano blanco no se zambulle para pescar — coopera en grupos para arrear peces hacia aguas poco profundas y atraparlos.",
+    "photo": "img/pelicano_blanco.jpg",
+    "photo_credit": "Wikimedia Commons"
+  },
+  "cenzontle": {
+    "common_name": "Cenzontle",
+    "scientific_name": "Mimus polyglottos",
+    "description": "El ave nacional de varios estados mexicanos. Su nombre viene del náhuatl 'centzontli' que significa '400 voces'. Es un imitador extraordinario.",
+    "habitat": "Zonas urbanas, jardines, matorrales",
+    "diet": "Insectos, frutas, bayas",
+    "wingspan_cm": 33,
+    "fun_fact": "Un cenzontle macho puede aprender más de 200 canciones distintas a lo largo de su vida, imitando otras aves, ranas e incluso sonidos mecánicos.",
+    "photo": "img/cenzontle.jpg",
+    "photo_credit": "Wikimedia Commons"
+  }
+}
